@@ -1,0 +1,36 @@
+{
+    "people" : [
+	{ 
+	    "name" : "Mako",
+	    "age" : 33,
+	    "fav_color" : "pink"
+	},
+
+	{ 
+	    "name" : "Atom",
+	    "age" : 2,
+	    "fav_color" : "orange"
+	},
+
+	{ 
+	    "name" : "Mika",
+	    "age" : 32,
+	    "fav_color" : "turqoise"
+	}
+    ],
+    
+    "fish" : [
+	{ 
+	    "name" : "Betta Max",
+	    "age" : 2,
+	    "fav_color" : "aquamarine"
+	},
+
+	{ 
+	    "name" : "Betta Carotine",
+	    "age" : 1,
+	    "fav_color" : "aquamarine"
+	}
+    ]
+
+}
