@@ -1,0 +1,17 @@
+#notes of mathplotlib
+
+plt.subplots
+|--figures
+	|--safefig
+|--axes
+	|--plot
+		|--labels
+		|--hist --> it won't ignore null value
+		|--
+	|--legend
+	|--set_xlim()
+	|--set_ylim()
+	|--loglog()
+	|--set_xlabel
+	|--set_ylabel
+plt.shows
